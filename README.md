@@ -50,6 +50,7 @@ public class Main {
 
 <img width="644" height="370" alt="image" src="https://github.com/user-attachments/assets/ab8f59a7-8d78-405c-9f4a-d75565f5edce" />
 
+
 # Ex2 Count how many times a number appears in an array recursively.
 ## DATE:07-08-2025
 ## AIM:
@@ -174,6 +175,7 @@ public class CountDigits {
 Thus, the Java program to to count the number of digits in an integer is implemented successfully.
 
 
+
 # Ex4 You are given a Java program that performs matrix addition. If Matrix A has all odd numbers and Matrix B has all even numbers of the same dimension, what will be the nature (even/odd/mixed) of the resulting matrix?
 ## DATE:14-08-2025
 ## AI
@@ -234,6 +236,7 @@ public class MatrixAddShort {
 
 ## Result:
 Thus, the java program to evaluate weather the given Matrix A has all odd numbers and Matrix B has all even numbers of the same dimension and find the nature of resultant matrrix is implemented successfully.
+
 
 
 # Ex5 Count Inversions in an Array
